@@ -40,4 +40,5 @@ developed using the C programming language.
 
 ## Author
 
-DIVYA
+DIVYA 
+<img width="1013" height="857" alt="Screenshot 2026-09-01 223209" src="https://github.com/user-attachments/assets/6cf03e4b-403c-4887-9e63-3d787f20ada3" />
